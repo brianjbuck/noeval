@@ -1,0 +1,6 @@
+- id: noeval
+  name: Don't allow commits with `eval()`
+  description: Warns when there are lines with `eval()`
+  entry: noeval
+  language: python
+  types: [python]
