@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/brianjbuck/noeval.svg?branch=master)](https://travis-ci.org/brianjbuck/noeval)
+
 noeval
 ======
 
