@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/brianjbuck/noeval.svg?branch=master)](https://travis-ci.org/brianjbuck/noeval)
+[![Coverage Status](https://coveralls.io/repos/github/brianjbuck/noeval/badge.svg)](https://coveralls.io/github/brianjbuck/noeval)
 
 noeval
 ======
